@@ -1,3 +1,11 @@
-ÕâÊÇÒ»¸ö·ÂQQµÄÁÄÌì¹¤¾ß,¹¦ÄÜ½ÏÎª¼òÂª
+ä»¿TIM(QQ)çš„èŠå¤©å·¥å…·
 
-ÊÇÒ»¸öui»ùÓÚQtµÄC++ socket±à³Ìdemo
+C/Sæ¨¡å¼
+
+ä½¿ç”¨äº†C++11çš„ç›¸å…³ç‰¹æ€§
+
+uiåŸºäºŽQt 5.9.3
+
+make by mingw32 & GUN g++4.8
+
+socketé€šä¿¡æ˜¯åŸºäºŽTCPçš„
